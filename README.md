@@ -10,7 +10,7 @@ Familiarize yourself with the app. You're getting an array of planet data from `
 
 ## Deliverable One
 
-Fix all the errors! You should find at least 4 errors to fix.
+Fix all the errors! You should find at least 3 errors to fix.
 
 ## Deliverable Two
 

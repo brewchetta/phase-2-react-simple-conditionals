@@ -22,7 +22,7 @@ const generateStarField = () => {
 
 function StarField(props) {
 
-  const [stars, setStars] = useState(generateStarField())
+  const [stars] = useState(generateStarField())
 
   const mappedStars = stars.map((star, i) => <Star key={i} posX={star.posX} posY={star.posY} />)
 
